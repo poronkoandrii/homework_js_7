@@ -100,4 +100,4 @@ class EmpTable {
 }
 let people = new EmpTable(worker);
 
-console.log(people.getHtml());
+people.getHtml();
